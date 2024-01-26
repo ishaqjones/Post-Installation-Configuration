@@ -23,36 +23,41 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+
+
 
 <h2>Configuration Steps</h2>
 
+  Post configuration: Delete the setup folder in our system. 
+  -Delete: C:\inetpub\wwwroot\osTicket\setup
+  Only delete the setup folder and nothing else.
+  
+  We then will want to set the permissions back to "Read" only in the ost-config.php file.
+  
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  
+![alt-text](https://github.com/ishaqjones/Post-Installation-Configuration/assets/156931487/fe322dc3-0fed-4ce7-955d-e9dce69714d9)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  
+<p>
+  
+![alt-text](https://github.com/ishaqjones/Post-Installation-Configuration/assets/156931487/c23af8c6-a370-415c-a880-bdf37e12498f)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+  The last step after that is to log in to osTicket on the browser.
+  
+<p>
+  
+![alt-text](https://github.com/ishaqjones/Post-Installation-Configuration/assets/156931487/501fe6d5-23e9-41f7-8e63-a819c82ba56c)
+
 </p>
-<br />
+<p>
+  
+  Congrats! You have now successfully installed and setup osTicket!
+
+
