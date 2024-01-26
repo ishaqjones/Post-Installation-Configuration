@@ -1,5 +1,5 @@
 # Post-Installation-Configuration
-Tutorial outlines the post-install configuration of the open source help desk ticketing system osTicket
+This  tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
@@ -9,9 +9,7 @@ Tutorial outlines the post-install configuration of the open source help desk ti
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -33,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   -Delete: C:\inetpub\wwwroot\osTicket\setup
   Only delete the setup folder and nothing else.
   
-  We then will want to set the permissions back to "Read" only in the ost-config.php file.
+  Set the permissions back to "Read" only in the ost-config.php file.
   
 <p>
   
@@ -49,7 +47,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
   
-  The last step after that is to log in to osTicket on the browser.
+  Final step:  Log in to osTicket in the browser using the administrator credentials created.
   
 <p>
   
@@ -58,6 +56,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
   
-  Congrats! You have now successfully installed and setup osTicket!
+  osTicket is now successfully set up and operational.
 
 
