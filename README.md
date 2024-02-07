@@ -1,5 +1,5 @@
 
-This  tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket
+
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
@@ -8,7 +8,9 @@ This  tutorial outlines the post-install configuration of the open-source help d
 <h1>osTicket - Post-Install Configuration</h1>
 
 
-
+<p>
+  This  tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket
+</p>
 
 
 <h2>Environments and Technologies Used</h2>
